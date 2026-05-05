@@ -7,14 +7,14 @@
 ---
 
 ## 🧠 About Me
-🎓 Information Technology student passionate about software engineering and intelligent systems  
-🤖 Exploring Artificial Intelligence & Machine Learning  
-📚 Strengthening foundations in programming & computer science  
-🚀 Focused on continuous technical growth  
+- Information Technology student passionate about software engineering and intelligent systems  
+- Exploring Artificial Intelligence & Machine Learning  
+- Strengthening foundations in programming & computer science  
+- Focused on continuous technical growth  
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
