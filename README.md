@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 - Information Technology student passionate about software engineering and intelligent systems  
 - Exploring Artificial Intelligence & Machine Learning  
 - Strengthening foundations in programming & computer science  
