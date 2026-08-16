@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Building+with+AI+%26+Machine+Learning;Multi-Agent+Systems+%7C+LangGraph+%7C+LLMs;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadkadam-10&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/prasadkadam-10?label=Followers&style=flat&color=8B5CF6" alt="GitHub followers" />
-</p>
-
 <br/>
 
 ## About Me
